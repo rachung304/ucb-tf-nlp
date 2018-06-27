@@ -11,20 +11,16 @@ Python 3.x
 
 ## Instructions:
 
-Run the following commands to train the model with input text
-
-'''cd /ucb-tf-nlp
-python3 train.py
-'''
+Run the train.ipynb
 
 Running the script will return the input texts split into positive and negative review files, and the accuracy from training the model.
 
-Sample result:
-![alt text](https://imgur.com/a/dGr0Ij4)
+Input files are placed in ./training_data
 
 The iterations are set to 100,000 and usual wait time is around 20-30 mins.
 The checkpoints will be saved for later on the test runs.
 
+To interactively test the trained model, run train.ipynb and it will ask you for inputs
 
 
 #### Reference:
