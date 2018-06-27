@@ -3,11 +3,11 @@
 ### Students: Paul Orona, Raymond Chung
 
 ## Dependencies:
-TensorFlow
-Matplotlib.pyplot
-numpy
-Tensorboard
-Python 3.x
+TensorFlow,
+Matplotlib.pyplot,
+numpy,
+Tensorboard,
+Python 3.x,
 
 ## Instructions:
 
