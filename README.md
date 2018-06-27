@@ -13,9 +13,7 @@ Python 3.x
 
 Run the following commands to train the model with input text
 
-'''
-cd /ucb-tf-nlp
-
+'''cd /ucb-tf-nlp
 python3 train.py
 '''
 
