@@ -7,7 +7,7 @@ TensorFlow,
 Matplotlib.pyplot,
 numpy,
 Tensorboard,
-Python 3.x,
+Python 3.x
 
 ## Instructions:
 
@@ -21,6 +21,11 @@ The iterations are set to 100,000 and usual wait time is around 20-30 mins.
 The checkpoints will be saved for later on the test runs.
 
 To interactively test the trained model, run train.ipynb and it will ask you for inputs
+
+## How We Split the Project
+
+Raymond Chung: Word Embedding, Test.py
+Paul Orona: Tensorboard, Training, Evaluation(accuracy ,loss , hyper-parameter testing)
 
 
 #### Reference:
